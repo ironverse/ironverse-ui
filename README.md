@@ -9,7 +9,7 @@ Ironverse is a decentralized peer-to-peer game hub. It runs any WASM game in the
 Unchecked means not yet implemented
 
 - [ ] Select a local WASM file to run in the browser
-- [ ] Use WASM from a URL.
+- [x] Use WASM from a URL.
 - [ ] Use WASM from a predefined list of URLs which can be updated through pull request.
 - [ ] Establish a peer-to-peer connection (using WebRTC) between users runnning the same WASM. 
 - [ ] Establish a connection with EVM compatible blockchains through Metamask.
