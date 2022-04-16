@@ -13,3 +13,5 @@ Unchecked means not yet implemented
 - [ ] Use WASM from a predefined list of URLs which can be updated through pull request.
 - [ ] Establish a peer-to-peer connection (using WebRTC) between users runnning the same WASM. 
 - [ ] Establish a connection with EVM compatible blockchains through Metamask.
+
+Join us on Discord: https://discord.gg/AwRQGhvfnh
